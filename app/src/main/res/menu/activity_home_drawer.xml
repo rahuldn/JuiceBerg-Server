@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+    <item
+        android:id="@+id/nav_menu"
+        android:icon="@drawable/ic_restaurant_menu_black_24dp"
+        android:title="MENU" />
+
+
+
+
+    <item
+        android:id="@+id/nav_order"
+        android:icon="@drawable/ic_access_time_black_24dp"
+        android:title="ORDERS" />
+    <item
+        android:id="@+id/nav_logout"
+        android:icon="@drawable/ic_account_circle_black_24dp"
+        android:title="LOG OUT" />
+
+
+</menu>
+

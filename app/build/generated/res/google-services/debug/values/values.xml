@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">169176473761-n1d0i841q8a2u2omjlt27qa3l19cavq2.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://juicebergorders.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">169176473761</string>
+    <string name="google_api_key" translatable="false">AIzaSyDHBdqSpHHn6260QweRtr2U4SD4aR8hO9I</string>
+    <string name="google_app_id" translatable="false">1:169176473761:android:912e1f13374b198f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDHBdqSpHHn6260QweRtr2U4SD4aR8hO9I</string>
+    <string name="google_storage_bucket" translatable="false">juicebergorders.appspot.com</string>
+    <string name="project_id" translatable="false">juicebergorders</string>
+</resources>
